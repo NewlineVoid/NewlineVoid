@@ -14,10 +14,10 @@ My contributions are probably random and filled with gaps. Probably a lot of unf
 
 ---
 
-![](https://yourinsights.vercel.app/api/insight?username=newlinevoid&theme=github_dark&graph=false&languages=true&streak=false&stats=true&header=true&summary=true&profile=true)
+![Github Insights](https://yourinsights.vercel.app/api/insight?username=newlinevoid&theme=github_dark&graph=false&languages=true&streak=false&stats=true&header=true&summary=true&profile=true)
 
 ---
 
 ### Contact
 
-Discord (preferred) - `vnewline_`
+Discord (preferred) - [`vnewline_`](https://discord.com/users/697729838517190686)
