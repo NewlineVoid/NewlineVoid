@@ -1,8 +1,19 @@
 ## vNewline
-what's next?
-Fork or Reiterate?
+> There aren't enough words.
 
-Both.
+Hobbyist programmer making random things.
+Some are complete, most aren't or might never be.
+Most exist because I felt like making them, usually out of defiance towards big tech. 
 
-What I do typically doesn't require git, hence why it seems so inactive. 
-If you wish to contact me, I'd rather you do it through Discord.
+### Projects and Interests
+Mostly small experiments. The bigger stuff are usually private.
+
+Languages I've been using lately: Rust, JS/TS, Lua.
+
+My contributions are probably random and filled with gaps. Probably a lot of unfinished work, and some things that just exist because I wanted to see them exist even if they're inherently useless.
+
+---
+
+### Contact
+
+Discord (preferred) - `vnewline_`
