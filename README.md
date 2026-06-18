@@ -20,4 +20,6 @@ My contributions are probably random and filled with gaps. Probably a lot of unf
 
 ### Contact
 
-Discord (preferred) - [`vnewline_`](https://discord.com/users/697729838517190686)
+Discord (preferred) - [`vnewline_`](https://go.revitalized.dev/ysvdc)
+
+Email - [`vnewline@revitalized.dev`](mailto:vnewline@revitalized.dev)
